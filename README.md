@@ -6,6 +6,8 @@
   - A REST API deployed on Google cloud and built to answer questions of the user using the Hugging Face Transformers NLP model - https://github.com/am11917/mgmt590-am-rest-api
   - A web application built in Python which uses the REST API and gives a UI for asking questions - https://github.com/am11917/mgmt590-am-restapi-webapp
   - Connecting the Web Application to Google Cloud PostgreSQL and storing all the questions and answers in the database - https://github.com/am11917/mgmt590-am-restapi-webapp
+    - Architecture
+    - https://user-images.githubusercontent.com/69768815/120727045-867f3c00-c4a7-11eb-8feb-d2e7020f76a8.png
   - Batch File Processing Pipelines to process and answer questions in the file - https://github.com/am11917/mgmt590-am-batch-pipeline
 
 <!---
